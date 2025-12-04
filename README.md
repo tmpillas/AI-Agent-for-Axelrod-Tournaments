@@ -6,3 +6,6 @@ In this project we develop and test a Deep Q-Learning agent that participates in
 
 ## Conclusions 
 From the performance of the agent we draw conclusions, that align with what Game Theory proposes as the best behavior.
+
+### Contact
+For any inquires, contact me through tmpillas@ece.auth.gr
