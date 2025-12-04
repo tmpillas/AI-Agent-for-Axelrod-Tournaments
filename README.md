@@ -3,3 +3,6 @@ This repository contains my project for the course of "Computational Intelligenc
 
 ## Description
 In this project we develop and test a Deep Q-Learning agent that participates in Axelrod Tournaments (aka Iterated Prisoner's Dilemma). We test different architectures for the neural network of the model and we present the results after we place the agent in different type of tournaments.
+
+## Conclusions 
+From the performance of the agent we draw conclusions, that align with what Game Theory proposes as the best behavior.
